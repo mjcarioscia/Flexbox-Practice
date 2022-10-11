@@ -1,0 +1,29 @@
+.wrapper {
+ 
+}
+
+
+.box {
+  border: 1px dashed;
+  display: grid;
+  position: relative;
+  margin: auto;
+  max-width: 50%;
+  grid-template-columns: 50% 20% 10%;
+}
+
+.box1 {
+  background-color: aqua;
+  margin-right: 50%;
+}
+
+.box2 {
+  background-color: yellow;
+}
+
+.box3 {
+  background-color: green;
+  margin-right: 50%;
+}
+
+
